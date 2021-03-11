@@ -1,0 +1,8 @@
+C:\Program Files\MSPaint\wrk16\ihc\MathExpressions\MathExpressions\bin\Debug\MathExpressions.exe.config
+C:\Program Files\MSPaint\wrk16\ihc\MathExpressions\MathExpressions\obj\Debug\MathExpressions.csprojResolveAssemblyReference.cache
+C:\Program Files\MSPaint\wrk16\ihc\MathExpressions\MathExpressions\bin\Debug\MathExpressions.exe
+C:\Program Files\MSPaint\wrk16\ihc\MathExpressions\MathExpressions\bin\Debug\MathExpressions.pdb
+C:\Program Files\MSPaint\wrk16\ihc\MathExpressions\MathExpressions\obj\Debug\MathExpressions.exe
+C:\Program Files\MSPaint\wrk16\ihc\MathExpressions\MathExpressions\obj\Debug\MathExpressions.pdb
+C:\Program Files\MSPaint\wrk16\ihc\MathExpressions\MathExpressions\bin\Debug\nunit.framework.dll
+C:\Program Files\MSPaint\wrk16\ihc\MathExpressions\MathExpressions\bin\Debug\nunit.framework.xml

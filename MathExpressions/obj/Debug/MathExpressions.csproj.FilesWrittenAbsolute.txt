@@ -1,0 +1,9 @@
+/home/jack/Documents/dif/MathExp/MathExpressions/MathExpressions/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/jack/Documents/dif/MathExp/MathExpressions/MathExpressions/bin/Debug/MathExpressions.exe.config
+/home/jack/Documents/dif/MathExp/MathExpressions/MathExpressions/bin/Debug/MathExpressions.exe.mdb
+/home/jack/Documents/dif/MathExp/MathExpressions/MathExpressions/bin/Debug/MathExpressions.pdb
+/home/jack/Documents/dif/MathExp/MathExpressions/MathExpressions/bin/Debug/MathExpressions.exe
+/home/jack/Documents/dif/MathExp/MathExpressions/MathExpressions/obj/Debug/MathExpressions.exe
+/home/jack/Documents/dif/MathExp/MathExpressions/MathExpressions/obj/Debug/MathExpressions.exe.mdb
+/home/jack/Documents/dif/MathExp/MathExpressions/MathExpressions/obj/Debug/MathExpressions.pdb
+/home/jack/Documents/dif/MathExp/MathExpressions/MathExpressions/bin/Debug/nunit.framework.dll
